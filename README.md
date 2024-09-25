@@ -25,7 +25,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/houda2024/Tennis_Ball_tracking.git
+   git clone https://github.com/houda2024/Tennis_BallTracking.git
    cd tennis-ball-tracking
    ```
 
